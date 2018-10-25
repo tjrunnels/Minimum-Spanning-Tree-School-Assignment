@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\tom runnels\source\repos\assignment5\assignment5\graph.h(101): warning C4715: 'Graph::first': not all control paths return a value
+c:\users\tom runnels\source\repos\assignment5\assignment5\graph.h(111): warning C4715: 'Graph::next': not all control paths return a value
+  Assignment5.vcxproj -> C:\Users\Tom Runnels\source\repos\Assignment5\Debug\Assignment5.exe
